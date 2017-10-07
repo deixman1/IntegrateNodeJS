@@ -1,0 +1,16 @@
+{
+  "name": "integrate",
+  "version": "0.0.0",
+  "description": "Integrate",
+  "main": "main.js",
+  "author": {
+    "name": "deix"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "private": true,
+  "browser": {
+    "request": "xhr"
+  }
+}
